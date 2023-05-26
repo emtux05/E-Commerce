@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('../public/fonts/NotoSerif-Regular.ttf') format('truetype');
+  /* Add additional font file formats here if available */
+}
+
+@font-face {
+  font-family: 'Nunito Sans', san-serif;
+  src: url('../public/fonts/NunitoSans_7pt-Regular.ttf') format('truetype');
+}
